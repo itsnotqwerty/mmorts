@@ -1,0 +1,26 @@
+{
+  "name": "mmorts",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "npx "
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/itsnotqwerty/mmorts.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/itsnotqwerty/mmorts/issues"
+  },
+  "homepage": "https://github.com/itsnotqwerty/mmorts#readme",
+  "dependencies": {
+    "@types/express": "^4.17.11",
+    "@types/node": "^14.14.25",
+    "create-react-app": "^4.0.2",
+    "express": "^4.17.1",
+    "typescript": "^4.1.3"
+  }
+}
